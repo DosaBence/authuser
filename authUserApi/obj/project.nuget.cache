@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "B9MAxk5I6JA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dosab\\Desktop\\V_REMEK\\Backend\\WebApiProjectWithAuth\\authUserApi\\authUserApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dosab\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.12\\microsoft.aspnetcore.openapi.10.0.12.nupkg.sha512",
+    "C:\\Users\\dosab\\.nuget\\packages\\microsoft.openapi\\2.12.0\\microsoft.openapi.2.12.0.nupkg.sha512",
+    "C:\\Users\\dosab\\.nuget\\packages\\scalar.aspnetcore\\2.21.0\\scalar.aspnetcore.2.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
